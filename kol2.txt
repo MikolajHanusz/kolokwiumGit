@@ -1,2 +1,4 @@
 zmiana1 naprawabledu1
+zmiana2
+zmiana3
 
